@@ -1,0 +1,12 @@
+C:\Users\QUANG\source\repos\CTDL_GT\CTDL_GT\bin\Debug\CTDL_GT.exe
+C:\Users\QUANG\source\repos\CTDL_GT\CTDL_GT\bin\Debug\CTDL_GT.pdb
+C:\Users\QUANG\source\repos\CTDL_GT\CTDL_GT\obj\Debug\CTDL_GT.csproj.AssemblyReference.cache
+C:\Users\QUANG\source\repos\CTDL_GT\CTDL_GT\obj\Debug\CTDL_GT.csproj.CoreCompileInputs.cache
+C:\Users\QUANG\source\repos\CTDL_GT\CTDL_GT\obj\Debug\CTDL_GT.exe
+C:\Users\QUANG\source\repos\CTDL_GT\CTDL_GT\obj\Debug\CTDL_GT.pdb
+C:\Users\QUANG\Desktop\CTDL_GT\21880108\Source\CTDL_GT\bin\Debug\CTDL_GT.exe
+C:\Users\QUANG\Desktop\CTDL_GT\21880108\Source\CTDL_GT\bin\Debug\CTDL_GT.pdb
+C:\Users\QUANG\Desktop\CTDL_GT\21880108\Source\CTDL_GT\obj\Debug\CTDL_GT.csproj.AssemblyReference.cache
+C:\Users\QUANG\Desktop\CTDL_GT\21880108\Source\CTDL_GT\obj\Debug\CTDL_GT.csproj.CoreCompileInputs.cache
+C:\Users\QUANG\Desktop\CTDL_GT\21880108\Source\CTDL_GT\obj\Debug\CTDL_GT.exe
+C:\Users\QUANG\Desktop\CTDL_GT\21880108\Source\CTDL_GT\obj\Debug\CTDL_GT.pdb
